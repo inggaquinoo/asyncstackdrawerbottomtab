@@ -47,7 +47,7 @@ const EditUser = ({ navigation }) => {
                     //////////////////////////////////////////
                     //GRAN LECCION!!! NamesJ debe ser la misma
                     //variable en todos los archivos ya sea 
-                    // en las funciones de seData ó update
+                    // en las funciones de setData ó update
                     ////////////////////////////////////////
                     NamesJ: name
                 }   

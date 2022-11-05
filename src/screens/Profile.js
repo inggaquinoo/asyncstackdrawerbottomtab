@@ -6,7 +6,6 @@ import { View, Text, TextInput, TouchableOpacity} from 'react-native';
 const Profile = ({navigation, route}) => {
 
 
-
 const [name, setName] = useState('')
 
 useEffect(() => {
